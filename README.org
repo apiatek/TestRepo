@@ -3,3 +3,5 @@
 ** Or not ...
 
 Vim is not good :|
+
+It is true! 
